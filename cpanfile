@@ -1,0 +1,1 @@
+requires "WWW::Telegram::BotAPI"
